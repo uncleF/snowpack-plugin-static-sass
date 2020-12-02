@@ -6,7 +6,7 @@
   "author": "uncleF",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/uncleF/snowpack-plugin-static-sass.git"
+    "type": "git",
+    "url": "https://github.com/uncleF/snowpack-plugin-static-sass.git"
   }
 }
